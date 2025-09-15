@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<Session Name="/Users/anilcebbur/Workspace1/Workspace1.workspace">
+<Session Name="C:\Users\user\Coommonproject\Workspace1.workspace">
   <int Value="0" Name="m_selectedTab"/>
-  <wxString Value="/Users/anilcebbur/Workspace1/Workspace1.workspace" Name="m_workspaceName"/>
+  <wxString Value="C:\Users\user\Coommonproject\Workspace1.workspace" Name="m_workspaceName"/>
   <TabInfoArray Name="TabInfoArray"/>
   <SerializedObject Name="m_breakpoints">
     <long Value="0" Name="Count"/>
