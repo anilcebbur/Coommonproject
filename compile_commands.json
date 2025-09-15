@@ -1,9 +1,9 @@
 [{
-  "file": "/Users/anilcebbur/Workspace1/Firstprogram/main.cpp",
-  "directory": "/Users/anilcebbur/Workspace1/Firstprogram",
-  "command": "g++ -c /Users/anilcebbur/Workspace1/Firstprogram/main.cpp -o /Users/anilcebbur/Workspace1/Firstprogram/main.cpp.o -target arm64-apple-darwin25.0.0 -I. -I.  -gdwarf-2  -O0  -Wall"
- }, {
-  "file": "/Users/anilcebbur/Workspace1/Project2/main.cpp",
-  "directory": "/Users/anilcebbur/Workspace1/Project2",
-  "command": "g++ -c /Users/anilcebbur/Workspace1/Project2/main.cpp -o /Users/anilcebbur/Workspace1/Project2/main.cpp.o -target arm64-apple-darwin25.0.0 -I. -I.  -O0  -gdwarf-2  -std=c++17  -Wall"
- }]
+		"file":	"C:\\Users\\user\\Coommonproject\\Firstprogram\\main.cpp",
+		"directory":	"C:\\Users\\user\\Coommonproject\\Firstprogram",
+		"command":	"g++ -c C:\\Users\\user\\Coommonproject\\Firstprogram\\main.cpp -o C:\\Users\\user\\Coommonproject\\Firstprogram\\main.cpp.o -target x86_64-w64-mingw32 -I. -I.  -gdwarf-2  -O0  -Wall"
+	}, {
+		"file":	"C:\\Users\\user\\Coommonproject\\Project2\\main.cpp",
+		"directory":	"C:\\Users\\user\\Coommonproject\\Project2",
+		"command":	"g++ -c C:\\Users\\user\\Coommonproject\\Project2\\main.cpp -o C:\\Users\\user\\Coommonproject\\Project2\\main.cpp.o -target x86_64-w64-mingw32 -I. -I.  -O0  -gdwarf-2  -std=c++17  -Wall"
+	}]

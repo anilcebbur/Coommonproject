@@ -1,4 +1,4 @@
-#include <iostream> anıl
+#include <iostream> anıl hadi be oglum
 
 int main()
 {
